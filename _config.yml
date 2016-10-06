@@ -6,7 +6,7 @@ title:               Poole
 tagline:             The Jekyll Butler
 url:                 http://getpoole.com
 paginate:            1
-baseurl:             "http://mgomes16.github.io/poole/"
+baseurl:             "https://mgomes16.github.io/poole/"
 
 # Assets
 #
@@ -20,6 +20,8 @@ author:
   name:              Mark Otto
   url:               https://twitter.com/mdo
   email:             markdotto@gmail.com
+  
+  
 
 # Custom vars
 version:             2.0.0
